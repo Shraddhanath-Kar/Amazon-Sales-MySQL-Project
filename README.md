@@ -9,6 +9,6 @@ Which means a few top selling product are making most of the money for Amazon.
 while there are many products only a small number are driving the biggest sales.
 This principle shows that a small percentage of product are responsible for most of the sales.
 Essentially focusing on these top products can have the biggest impact on revenue.
-# Customer Preforance:
+# Customer Preferance:
 Our analysis revealed that 65% of customers preferred making cash.
 Our work involved creating database, performing feature engineering and analyze data to provide insights that help optimize marketing strategies & improve sales outcome.
