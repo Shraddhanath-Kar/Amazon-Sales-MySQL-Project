@@ -1,7 +1,7 @@
 # Amazon-Sales-MySQL-Project
 
 In this project We have analyzed sales performance data for Amazon using SQL to understand product performance, Customer performance & impact of promotion.
-# What I did:
+# What we did:
 We worked with sales data to uncover key insights about product revenue, Customer buying behaviour.
 We have discovered that 20% of the product generated 80% of the total revenue which illustrate the Pareto Principle.
 It is also known as 80/20 rule.
